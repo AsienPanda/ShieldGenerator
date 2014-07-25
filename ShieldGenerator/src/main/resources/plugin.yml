@@ -1,0 +1,5 @@
+name: ShieldGenerator
+version: 0.1
+author: Asien
+main: io.github.asienpanda.ShieldGenerator.ShieldGenerator
+description: Shield Generator anti-grief plugin!
