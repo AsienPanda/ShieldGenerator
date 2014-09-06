@@ -1,0 +1,9 @@
+Power Levels:
+        EMERALD_BLOCK: 100  
+        DIAMOND_BLOCK: 80   
+        GOLD_BLOCK: 60
+        IRON_BLOCK: 40
+Power Multiplier Per Level:
+Toggle Features:
+- antigrief
+- forcefield
