@@ -3,3 +3,33 @@ version: 0.1
 author: Asien
 main: io.github.asienpanda.ShieldGenerator.ShieldGenerator
 description: Shield Generator anti-grief plugin!
+commands:
+    shieldgenerator:
+        Description: Command to use Shield Generator
+        usage: "/<command> <setname/addmember/delmember/info/list>"
+    shield:
+        Description: Command to use Shield Generator
+        usage: "/<command> <setname/addmember/delmember/info/list>"       
+permissions:
+   shieldgenerator.player.setname:
+    description: Admin bybass for setting shield names
+   shieldgenerator.player.powertoggle:
+    description: Admin bypass for toggling shield
+   shieldgenerator.player.editmembers:
+    description: Admin bypass for editing members of shields
+   shieldgenerator.player.info:
+    description: Admin bypass for accessing info for all available shields
+   shieldgenerator.player.list:
+    description: Admin bypass for listing all available shields
+   
+   shieldgenerator.admin.setname:
+    description: Admin bybass for setting shield names
+   shieldgenerator.admin.powertoggle:
+    description: Admin bypass for toggling shield
+   shieldgenerator.admin.editmembers:
+    description: Admin bypass for editing members of shields
+   shieldgenerator.admin.info:
+    description: Admin bypass for accessing info for all available shields
+   shieldgenerator.admin.list:
+    description: Admin bypass for listing all available shields
+   
